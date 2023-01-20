@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(26, 97, 204);
+    font: normal 15pt arial;
+    
+}
+header{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: aliceblue;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.267);
+   
+}
+footer{
+    color:white;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#masc{
+    cursor: pointer;
+}
+#fem{
+    cursor: pointer;
+}
+#res{
+    margin-top: 20px;
+    padding: 10px;
+}
